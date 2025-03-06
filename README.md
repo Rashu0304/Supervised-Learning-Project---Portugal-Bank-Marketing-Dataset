@@ -14,7 +14,7 @@ Economic indicators: Employment variation rate, Euribor 3-month rate, Consumer p
 
 🔍 Tasks Performed
 
-1. Exploratory Data Analysis (EDA) (5 marks)
+1. Exploratory Data Analysis (EDA)
 
 Visualized distributions of categorical features
 
@@ -22,7 +22,7 @@ Analyzed correlations between numerical features
 
 Identified insights such as higher subscriptions among retirees and students
 
-2. Data Preprocessing (10 marks)
+2. Data Preprocessing
 
 Missing Value Analysis: Handled missing values with imputation strategies
 
@@ -34,13 +34,13 @@ Handling Class Imbalance: Applied SMOTE to balance the dataset
 
 Standardization: Standardized numerical features using StandardScaler
 
-3. Model Building (5 marks)
+3. Model Building 
 
 Logistic Regression: Interpretable baseline model
 
 Decision Tree: Captures complex decision boundaries
 
-4. Model Evaluation & Tuning (10 marks)
+4. Model Evaluation & Tuning 
 
 Metrics Compared: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
@@ -69,7 +69,7 @@ Decision Tree (Tuned): F1-Score: 0.84 | ROC-AUC: 0.87
 
 Clone the repository:
 
-git clone https://github.com/yourusername/portugal-bank-marketing.git
+git clone https://github.com/Rashu0304/Supervised-Learning-Project---Portugal-Bank-Marketing-Dataset.git
 
 Install dependencies:
 
@@ -107,4 +107,4 @@ Deploy the model using Flask or Streamlit
 
 Rashmita GaudaAspiring Data Analyst | Machine Learning Enthusiast
 
-Feel free to connect with me on LinkedIn 🚀
+Feel free to connect with me on LinkedIn 🚀 (https://www.linkedin.com/in/rashmitagauda/)
